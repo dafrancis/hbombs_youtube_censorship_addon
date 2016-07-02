@@ -17,7 +17,7 @@
      * "Debug Mode" in future, but sorry Mozilla reviewers I'm going to keep
      * this in.
      */
-    var DEBUG = true;
+    var DEBUG = false;
 
     /*
      * Shouts out to http://stackoverflow.com/a/9851769 for the handy dandy list
@@ -68,7 +68,10 @@
         'hunteravallone', 'UCDgchsbJnrX604K-xWsd-fQ',
         'UCctjGdm2NlMNzIlxz02IsXA', // Chris Ray Gun
         'UCoNGo02Aai6VQotn-MNnbpw', // Rekt Feminist Videos
-        'TokyoAtomic', 'UCmrLCXSDScliR7q8AxxjvXg'
+        'TokyoAtomic', 'UCmrLCXSDScliR7q8AxxjvXg',
+        'UCTrecbx23AAYdmFHDkci0aQ', // Undoomed
+        'Shoe0nHead', 'UC0aanx5rpr7D1M7KCFYzrLQ',
+        'armouredskeptic', 'UC1BWMtZbNLVMSFgwSukjqCw'
     ];
 
     var debug_console = {
