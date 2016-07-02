@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=jN0REjUCGlE
 
 This addon is here for educational purposes and for people to report bugs and suggest further additions.
 
+Please read blog post here https://medium.com/@Afal/how-to-write-chrome-and-also-firefox-i-guess-addons-fb987cfe76b6#.dq39ca7k8
+
 https://chrome.google.com/webstore/detail/hbombs-youtube-censorship/djhicpapmcmjabcmkdecglggplpnmkid
 
 https://addons.mozilla.org/en-US/firefox/addon/hbomb-youtube-censorship-addon/
