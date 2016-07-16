@@ -71,7 +71,16 @@
         'TokyoAtomic', 'UCmrLCXSDScliR7q8AxxjvXg',
         'UCTrecbx23AAYdmFHDkci0aQ', // Undoomed
         'Shoe0nHead', 'UC0aanx5rpr7D1M7KCFYzrLQ',
-        'armouredskeptic', 'UC1BWMtZbNLVMSFgwSukjqCw'
+        'armouredskeptic', 'UC1BWMtZbNLVMSFgwSukjqCw',
+        'UCC1rjUKeELaSKsxg0O1bNGw', // Harmful Opinions
+        'Shoe0ffHead', 'UCOrpD6svgE3L3CCnWk52JSg',
+        'UCf1iroepad-o5w2il-06Gjg', // Armoured Media
+        'EnArgBlatteTalar', 'UC8kf0zcrJkz7muZg2C_J-XQ',
+        'UCg6MuFVugHwWCp1YDQDAy1w', // Atheism is Unstoppable
+        'UCI4BJMiJkccsv6Gb6Gck86g', // Wacist Wallaby
+        'UCLIgnE32n3IYRyY5vtu2_dQ', // Krazy Kool Kangaroo
+        'UCr_Q-bPpcw5fJ-Oow1BW1NQ', // Kraut and Tea
+        'CultOfDusty', 'UCtlfyd1Xs9CtxfBNP9_IgAw00'
     ];
 
     var debug_console = {
@@ -201,14 +210,12 @@
 
     function check_sidebar_video(video) {
         var user_element, user;
-        if (video.nodeName !== "LI") {
-            if (video.id === "watch-more-related") {
-                loop_over(video.children, check_sidebar_video);
-            }
-        } else {
+        if (video.nodeName === "LI") {
             user_element = crawl_children(video, [0, 0, 2, 0]);
             user = user_element && user_element.dataset.ytid;
             check_and_block_video(video, user);
+        } else if (video.id === "watch-more-related") {
+            loop_over(video.children, check_sidebar_video);
         }
     }
 
