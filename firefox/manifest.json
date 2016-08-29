@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Hbomb's YouTube Censorship Addon",
   "description": "This extension hides videos from the Skulls Parasite Unit.",
-  "version": "1.3",
+  "version": "1.4",
   "icons": { "128": "hbomb.png" },
   "applications": {
     "gecko": {

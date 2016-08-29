@@ -43,9 +43,9 @@
         'Aurini', "UC6TJdRrZR_WacbxJWiRZ5_g",
         'thunderf00t', 'UCmb8hO2ilV9vRa8cilis88A',
         'SargonofAkkad100', "UC-yewGHQbNFpDrGM0diZOLA",
-        'UC6cMYsKMx6XicFcFm7mTsmA', // Sargon has 3 other channels for some reason
-        'UCg57OqktnnvRc3HRPGnXKTg', // Like seriously
-        'UCSMG40p6XHFTeXv5noF6Wdw', // Who needs that many channels?
+        'SargonofAkkad', 'UC6cMYsKMx6XicFcFm7mTsmA', // Sargon has 3 other channels for some reason
+        'SargonofAkkad', 'UCg57OqktnnvRc3HRPGnXKTg', // Like seriously
+        'SargonofAkkad', 'UCSMG40p6XHFTeXv5noF6Wdw', // Who needs that many channels?
         'americassurvival', "UCukW9fbX4m5MpOmQ2M5isVg",
         'MensBusinessAsocEduc', "UCsqXlj9Tj5oaZX3xPLCxWSw",
         'RockingMrE', "UCzOnXvfwc32YEiwTe_8Nf-g",
@@ -53,34 +53,46 @@
         'stefbot', "UCC3L8QaxqEGUiBC252GHy3w",
         'TheAmazingAtheist', 'UCjNxszyFPasDdRoD9J6X-sw',
         'MrRepzion', "UC228Y4vvOMPieeT_XYTbe-A",
-        'UCcc_zG4pMLpuefQQs25e4bg', // The Atheist Gamer
-        'UCfYbb7nga6-icsFWWgS-kWw', // Mister Metokur
+        'The Atheist Gamer', 'UCcc_zG4pMLpuefQQs25e4bg',
+        'Mister Metokur', 'UCfYbb7nga6-icsFWWgS-kWw',
         'theignoredgender', "UCIEO_w-8_voXDymte5KYw_A",
         'weevlos', "UCZZFrPKyH-Le2uoPGnn5jyg",
-        'UCMIj-wEiKIcGAcLoBO2ciQQ', // Teal Deer / tl;dr
-        'UCvsye7V9psc-APX6wV1twLg', // Alex Jones Infowars Dot Com
+        'Teal Deer', 'UCMIj-wEiKIcGAcLoBO2ciQQ',
+        'Alex Jones Info Wars Dot Com', 'UCvsye7V9psc-APX6wV1twLg',
         'AlphaOmegaSin', "UCVtEytgcL5fZcSiKx-BjimQ",
-        'MundaneMatt', "UCVtEytgcL5fZcSiKx-BjimQ",
+        'MundaneMatt', 'UCxXUQuvoiIAlpM2osoAitjQ',
         'PragerUniversity', 'UCZWlSUNDvCCS1hBiXV0zKcA',
         'realmattforney', 'UCFc0stDRUkeBDc36qZeox1g',
         'NateTalksToYou', 'UCvBSa6Tzhiz7MrVI_DkwvWA',
-        'UCh-Bu3sMGxYW53LalZufHew', // UMass College Republicans
+        'UMass College Republicans', 'UCh-Bu3sMGxYW53LalZufHew',
         'hunteravallone', 'UCDgchsbJnrX604K-xWsd-fQ',
-        'UCctjGdm2NlMNzIlxz02IsXA', // Chris Ray Gun
-        'UCoNGo02Aai6VQotn-MNnbpw', // Rekt Feminist Videos
+        'Chris Ray Gun', 'UCctjGdm2NlMNzIlxz02IsXA',
+        'Rekt Feminist Videos', 'UCoNGo02Aai6VQotn-MNnbpw',
         'TokyoAtomic', 'UCmrLCXSDScliR7q8AxxjvXg',
-        'UCTrecbx23AAYdmFHDkci0aQ', // Undoomed
+        'Undoomed', 'UCTrecbx23AAYdmFHDkci0aQ',
         'Shoe0nHead', 'UC0aanx5rpr7D1M7KCFYzrLQ',
         'armouredskeptic', 'UC1BWMtZbNLVMSFgwSukjqCw',
-        'UCC1rjUKeELaSKsxg0O1bNGw', // Harmful Opinions
+        'Harmful Opinions', 'UCC1rjUKeELaSKsxg0O1bNGw',
         'Shoe0ffHead', 'UCOrpD6svgE3L3CCnWk52JSg',
-        'UCf1iroepad-o5w2il-06Gjg', // Armoured Media
+        'Armoured Media', 'UCf1iroepad-o5w2il-06Gjg',
         'EnArgBlatteTalar', 'UC8kf0zcrJkz7muZg2C_J-XQ',
-        'UCg6MuFVugHwWCp1YDQDAy1w', // Atheism is Unstoppable
-        'UCI4BJMiJkccsv6Gb6Gck86g', // Wacist Wallaby
-        'UCLIgnE32n3IYRyY5vtu2_dQ', // Krazy Kool Kangaroo
-        'UCr_Q-bPpcw5fJ-Oow1BW1NQ', // Kraut and Tea
-        'CultOfDusty', 'UCtlfyd1Xs9CtxfBNP9_IgAw00'
+        'Atheism is Unstoppable', 'UCg6MuFVugHwWCp1YDQDAy1w',
+        'Wacist Wallaby', 'UCI4BJMiJkccsv6Gb6Gck86g',
+        'Krazy Kool Kangaroo', 'UCLIgnE32n3IYRyY5vtu2_dQ',
+        'Kraut and Tea', 'UCr_Q-bPpcw5fJ-Oow1BW1NQ',
+        'CultOfDusty', 'UCtlfyd1Xs9CtxfBNP9_IgAw00',
+        'CringePlanet', 'UCrt-H1s8VKlxxq0RLORehCg',
+        'Compilation Central', 'UCItlpUIsfPld3E0QQ20oNsA',
+        '50 Shades', 'UCa3meRxRwQrXg__x--Goxrg',
+        'Lauren Southern', 'UCla6APLHX6W3FeNLc8PYuvg',
+        'Ben Sharpio', 'UCXm89gN5S-t9JIW89XVSvmQ',
+        'Computing Forever', 'UCT9D87j5W7PtE7NHOR5DUOQ',
+        'SJWCentral', 'UC-jlxuVAVEl2PXTaGno7gSA',
+        'Suit Yourself', 'UCMc7w9VO8VKsEc98q_kndMA',
+        'Mauritian Struggle', 'UC2yh-MfL2LamSVqb76fEPCg',
+        'Antifeminist Australia', 'UCNfnpSAXFKeJe3t9AFUq_2Q',
+        'Bearing', 'UCwW_vaMPlq8J4weKDsfeJzw',
+        'bane666au', 'UClfqxOGWFlOMQWpIhbhzL2w'
     ];
 
     var debug_console = {
@@ -102,40 +114,22 @@
     }
 
     function get_channel_name(link) {
-        return link.pathname.replace(/^\/(user|channel)\//, '');
+        return link.dataset.ytid;
     }
 
     function loop_over(list, callback) {
         Array.from(list).forEach(callback);
     }
 
-    function check_and_block_video(video, user) {
-        if (is_bad_user(user) && video.style.display !== "none") {
-            debug_console.log("HBCA: blocking video for: " + user);
-            video.style.display = "none";
-        }
+    function get_channel_debug_name(user) {
+        return BAD_CHANNELS[BAD_CHANNELS.indexOf(user) - 1];
     }
 
-    /*
-     * Traversing the DOM is a huge pain in the butt and is quite obviously the
-     * worst bit of javscript. When you know the html structure of what you want
-     * is in a certain way but you can't guarantee that you're going to grab
-     * that every time you need to be a little careful.
-     * Going element.children[0].children[1] may normally throw an exception,
-     * but with this, all you need to do is crawl_children(element, [0, 1]) and
-     * if any point fails it returns null. Trying to access null though will
-     * probab-DEFINITELY throw an exception so the best thing to do is to check
-     * for null before doing the next thing. Its a huge pain in the butt, but
-     * it's all the fun in writing extensions using javascript.
-     */
-
-    function crawl_children(element, children_list) {
-        var final_element = element;
-        children_list.forEach(function (child) {
-            final_element = final_element && final_element.children;
-            final_element = final_element && final_element[child];
-        });
-        return final_element || null;
+    function check_and_block_video(video, user) {
+        if (is_bad_user(user) && video.style.display !== "none") {
+            debug_console.log("HBCA: blocking video for: " + get_channel_debug_name(user));
+            video.style.display = "none";
+        }
     }
 
     /*
@@ -150,17 +144,17 @@
      */
 
     function check_feed_video(video) {
-        var details = crawl_children(video, [0, 0, 1]).children,
+        var details = video.getElementsByClassName("yt-lockup-content")[0].children,
             user = get_channel_name(details[1].children[0]);
         check_and_block_video(video, user);
     }
 
     function check_feed(feed) {
-        var videos = feed.children[1].children[0].children[0].children,
+        var videos = feed.getElementsByClassName("yt-shelf-grid-item"),
             user_link = feed.children[0].getElementsByTagName("a"),
             user = user_link.length && get_channel_name(user_link[0]);
         if (is_bad_user(user) && feed.style.display !== "none") {
-            debug_console.log("HBCA: blocking feed for: " + user);
+            debug_console.log("HBCA: blocking feed for: " + get_channel_debug_name(user));
             feed.style.display = "none";
         } else {
             loop_over(videos, check_feed_video);
@@ -211,7 +205,8 @@
     function check_sidebar_video(video) {
         var user_element, user;
         if (video.nodeName === "LI") {
-            user_element = crawl_children(video, [0, 0, 2, 0]);
+            user_element = video.getElementsByClassName("attribution");
+            user_element = user_element.length && user_element[0].children[0];
             user = user_element && user_element.dataset.ytid;
             check_and_block_video(video, user);
         } else if (video.id === "watch-more-related") {
