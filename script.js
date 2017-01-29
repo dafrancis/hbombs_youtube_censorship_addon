@@ -92,7 +92,100 @@
         'Mauritian Struggle', 'UC2yh-MfL2LamSVqb76fEPCg',
         'Antifeminist Australia', 'UCNfnpSAXFKeJe3t9AFUq_2Q',
         'Bearing', 'UCwW_vaMPlq8J4weKDsfeJzw',
-        'bane666au', 'UClfqxOGWFlOMQWpIhbhzL2w'
+        'bane666au', 'UClfqxOGWFlOMQWpIhbhzL2w',
+        'thatistheplan', 'UCAfaLxhKe_77oolMLutK26w',
+        'HoneyBadgerRadio', 'UC595wqznMGuY2mi6DKx-qnQ',
+        'pariastabendesa', 'UCMbn8X55pVwPOwF1oINgDnw',
+        'Warcorpse666', 'UCTc2BCYV97PvLBFNJQ3iCYA',
+        'Patrick (Bearing)', 'UC-EREEErQQqgYNyNB4YGQnQ',
+        'Blaire White', 'UCDmCBKaKOtOrEqgsL4-3C8Q',
+        'Sir Sic The Social Inequality Crusader', 'UCswrOzUxwh7O2mV52fmh8eA',
+        'Top hat and champagne', 'UCW3T5nG4iEkI7HjG-Du3HQA',
+        'OpenMind', 'UCw5pSFA1KVZJruigo_FVv2Q',
+        'Matt Christiansen', 'UCxeY-wRrb65Jt37QHa5xMog',
+        'No Holds Barred', 'UCA27jvVhEP_WkLsapJEvSpA',
+        'Ernold Johnson', 'UCJzBFavmFB2d3irg9ZQVDyQ',
+        'Mark Dice', 'UCzUV5283-l5c0oKRtyenj6Q',
+        'EazyOnMe', 'UCQGKHjjFddJiNd-XdeFAr4A',
+        'Marra Jane', 'UCS8fvfyK9svu3AbWbSnI45A',
+        'GradeAUnderA', 'UCz7iJPVTBGX6DNO1RNI2Fcg',
+        'The Wooly Bumblebee', 'UCYif2xOTlk1ZTlaHT_AR6Aw',
+        'Andywarski', 'UC2h3yPmh9TfQv2z3aTDTHHA',
+        'Independent Man', 'UCjbgKUcTjpxmuW-8U0LR80Q',
+        'Mae Dominguez', 'UCQ1nJfH47xBxWJTbjU61Miw',
+        'Feminism is for nobody', 'UCjBR-WwNgkb6fwpx9gvLBfw',
+        'Thug Life Nation', 'UC8U550S4DvAAzIdWc5Dq84A',
+        'Red Pill Philosophy', 'UCpM_hmOVus872lSLIdbirXQ',
+        'American Enterprise Institute', 'UCt8lRYpzb-sSrKFb4DT2ECw',
+        'Erin Volentine', 'UCZNZEYlD_vCNqfo1AC-V9WQ',
+        'JacobTrueman', 'UC2ZNetlUIlKSFrldCzyJ8Wg',
+        'Dizzatron', 'UCZO8L4LXyu7qwOebigWIzaQ',
+        'Kingury', 'UCCXa4Khp9S161Qj-OGfQMIg',
+        'Terrence Popp', 'UCwd_sSDZ8EQt6SEeOO2tBRA',
+        'Dr Shaym', 'UCFCnavulDXsrIHGNZpzY-Ow',
+        'Random Acts Of Entertainment', 'UCicIl_W2l7e48eOpAY6fNYg',
+        'Blaire White Fan', 'UCDmCBKaKOtOrEqgsL4-3C8Q',
+        'Patriotic Populist', 'UCFIyHT6yySaDiAUnqx_qNKg',
+        'An Ear for Men', 'UCXNNG0ej_6rU9SxCZ4dyq6w',
+        'BigGulp', 'UC5hfOzSNgy7RZ-9TBjPtKAg',
+        'Cream Puff', 'UCFjd060Z3nTHv0UyO8M43mQ',
+        'Flossy', 'UCFfCqe7b9YiDk2ZiAG8UIGA',
+        'purpandorange', 'UCf8m35ouq4dXhCcN12IkaYQ',
+        'EqualRightsAdvocate', 'UCoUgfY94e_ElB9xXhtvKv_Q',
+        'The Anti-Feminist', 'UCB8BtE6FcBI-ssnmP6hYInQ',
+        'ReviewTechUSA', 'UC__Oy3QdB3d9_FHO_XG1PZg',
+        'Captain Nemo', 'UC5m1TjUv2c2N8jFDrF3QW-w',
+        'MaxwellSherwood', 'UCckacmmp6_-RNmuEtQvvIWQ',
+        'Compilation Central', 'UCItlpUIsfPld3E0QQ20oNsA',
+        'lexxynichelle', 'UCQvDpUwPA_oLHB_k0jwfeLw',
+        '1791L', 'UCp4oMaqaY0hIoT9jafj1g8g',
+        'On The Offensive', 'UCcrgJyI1bSysVE92HPpNNiw',
+        'Oginos', 'UC8eYN02E1q_qWXzJLvzKmFg',
+        'Patty Mayo', 'UCEYLdM2bdhmw-TS3c0TjFNw',
+        'Anti-Feminism Australia', 'UCNfnpSAXFKeJe3t9AFUq.../feed',
+        'CRINGE ONLY', 'UCxuHvADqA8AR5NxDEYc1Cuw',
+        'Charmingman93', 'UCaB5Bb5FU7XWbCbPJ_CiIFA',
+        'Bella Heart', 'UCKhxFcm_rfsBLkYjvjIMNhQ',
+        'PINO', 'UCsR9KNFD2Nkhko6F982twhA',
+        'Youtube Cringe', 'UCqWr2hdGPCQ1uzT0HZBepaA',
+        'Thevin', 'UC10tCjVGOUZYoZGRMUh29Qw',
+        'fakeengineer', 'UClPYAYD3tv3X3ledQNsj3mQ',
+        'TomLeykis1', 'UCTI5wzIO1DXQNNbsspE-MmQ',
+        'Turd Flinging Monkey', 'UCbgzmK-mfpjULHZ8SMCuhdg',
+        'Mensutra', 'UCSXFaThRuBGbqOaZsTxZnTQ',
+        'East India Comedy', 'UCpU9EZn1Ll9kPpSuBsn4VyA',
+        'Paul Joseph Watson', 'UCittVh8imKanO_5KohzDbpg',
+        'Feminism LOL', 'UCVRQqUgDRBevsDGOeE1DL3A',
+        'The White Rose', 'UCs6TVy9MVqO6FLIC5mOtx6w',
+        'Yorick', 'UCbbysp6QBvobGGjwlQsWMMQ',
+        'MGTOAD', 'UCCoPHc4oX-ogl86zwMH9Naw',
+        'NeverEndingVictory', 'UCd6Ef2iE27ZvmXYMkM1z0JA',
+        'sanderson1611', 'UCq7BdmVpQsay5XrwOgMhN5w',
+        'FreeStateProjectNH', 'UCGpPjaE3IwGOE8DpDrJtMvg',
+        'Wood Spirit', 'UCtEPacaGIYjMd2FyXEgIkFA',
+        'Theryn Meyer', 'UC9s3HwtzqzZ_OOUtfQwz_vw',
+        'SoulJa Of GOD', 'UCQ-gqVS0v5a198vTFOP1qiQ',
+        'TheAdviseShowTV', 'UCKZGcrxRAhdUi58Mdr565mw',
+        'StudioBrule', 'UC7PfGhJXlJiDs4jvGGGgqsQ',
+        'No Bullshit', 'UCZNk7Jjb2t8EuBdgn4Zj1cw',
+        'TylerPreston20', 'UCTrjPBx2WY3wsd1OKmMQv8w',
+        'MGTOW 101', 'UCXVCVIkIpgUjCPtQ7lpy94Q',
+        'JG Wentworthh', 'UC5d4mlV0zWDL0rHBpYT38mw',
+        'All Mark Passio The Great Work', 'UC4pJtV2ySmwPjXzTJMyqXnQ',
+        'Jean-Francois Gariepy (accented e)', 'UCowcNKm1w2GGw5U_XQeduhg',
+        'Brittany Deer', 'UC9-JZPFdactXFmQ7wq9rZjQ',
+        'MemeKid', 'UCWy3iUn5zGDqil5I_jV1o6g',
+        'Naked Ape', 'UCMOaRU-YsXVgU-WahBkZqWQ',
+        'Drunken Peasants', 'UCXcriK0lfrR_ACsDDzqrPpw',
+        'Some Black Guy', 'UC7e57qWIEAZTQAaFwHpKdlw',
+        'Destroyed Feminists', 'UCFmpKEIBhekYyPi-pKcevYQ',
+        'Roaming Millennial', 'UCLUrVTVTA3PnUFpYvpfMcpg',
+        'StevenCrowder', 'UCIveFvW-ARp_B_RckhweNJw',
+        'That Guy T', 'UCLJkNhB1Eg_mXx0quUju0Og',
+        'Anarchyball', 'UCrcrV4J6exbyTY4gcbvL_lA',
+        'karen straughan', 'UCcmnLu5cGUGeLy744WS-fsg',
+        'Jeff Holiday', 'UCAldq8BAAGdsX9UyK_09-ZA',
+        'BabyradfemTV', 'UCHH8wS-Kd1wUvlvrrCmMMPQ'
     ];
 
     var debug_console = {
@@ -144,9 +237,14 @@
      */
 
     function check_feed_video(video) {
-        var details = video.getElementsByClassName("yt-lockup-content")[0].children,
+        var user,
+            details = video.getElementsByClassName("yt-lockup-content");
+        if (details.length) {
+            details = details[0].children,
+            debug_console.log(details);
             user = get_channel_name(details[1].children[0]);
-        check_and_block_video(video, user);
+            check_and_block_video(video, user);
+        }
     }
 
     function check_feed(feed) {
@@ -289,12 +387,13 @@
      */
 
     function timeout_trigger(callback, time) {
-        var timeout = null;
+        var timeout = true;
         return function () {
-            if (!timeout) {
+            if (timeout) {
+                timeout = false;
                 setTimeout(function () {
                     callback();
-                    timeout = null;
+                    timeout = true;
                 }, time);
             }
         };
